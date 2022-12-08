@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🤔
 
 <img src="https://www.codewars.com/users/sutangu/badges/micro" align="center">
 
