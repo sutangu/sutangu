@@ -1,6 +1,6 @@
 ### Hi there 🤔
 
-<img src="https://www.codewars.com/users/sutangu/badges/large" align="center">
+<a href="https://www.codewars.com/users/sutangu" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/sutangu/badges/large" align="center"></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sutangu&count_private=true&theme=dark&layout=compact" align="center">
 
